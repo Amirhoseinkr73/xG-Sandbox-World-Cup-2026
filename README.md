@@ -2,8 +2,7 @@
 
 A small, self-contained web app for exploring **expected-goals (xG) matchups** at the 2026 FIFA World Cup. Pick any two of the 48 teams and the model estimates how the game might go, based on the chances each side has created and conceded so far.
 
-**Live site:** https://YOURUSERNAME.github.io/wc26-xg-sandbox/
-*(replace with your URL once GitHub Pages is on)*
+**Live site:** 
 
 ---
 
